@@ -1,0 +1,26 @@
+/*selector{
+    property:value;
+}*/ 
+
+p{
+    color:red
+}
+ h1{
+            background-color: black;
+        }
+        #text{
+            font-style: italic;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            font-size: 16px;
+            text-decoration: underline;
+        }
+     -link {
+            /*color:blue;*/
+             text-decoration: none;
+     
+        }
+        a{ 
+             color:blue;
+            text-decoration: none;
+        }
